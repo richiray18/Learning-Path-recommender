@@ -1,0 +1,6 @@
+{
+  "name": "Mentora",
+  "description": "A thoughtful, personalized learning platform that creates structured roadmaps, tracks your skill growth, and guides your daily progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
